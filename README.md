@@ -10,3 +10,5 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&HTML&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=&CSS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=&Mysql&logoColor=white"/></a>&nbsp;
+
+[![iolite-ruru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ilite-ruru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/iolite-ruru)
