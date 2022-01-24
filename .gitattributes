@@ -1,1 +1,2 @@
-*.cs linguist-vendored
+#*.cs linguist-vendored
+Unity_3DLowPoly/* linguist-vendored
